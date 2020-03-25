@@ -96,7 +96,7 @@
     "moment": "^2.19.0",
     "react-native-communications": "2.2.1",
     "react-native-iphone-x-helper": "^1.2.0",
-    "react-native-lightbox": "git+https://github.com/nguyentc21/react-native-lightbox",
+    "react-native-lightbox": "git+https://github.com/nguyentc21/react-native-lightbox#b9e1dba3590fb893141f12ba10ac17430fabf307",
     "react-native-maps": "~0.24.0",
     "react-native-parsed-text": "^0.0.20",
     "react-native-video": "4.4.2",
